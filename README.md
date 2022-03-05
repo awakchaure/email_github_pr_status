@@ -9,5 +9,6 @@ python 3
 Usage :-
 
 > export GITHUB_TOKEN="<copy github token here>" \n
-> python3 pr_list_email_format.py \n
+
+ > python3 pr_list_email_format.py \n
 Enter repository : <type github repository name here>" #e.g. ashish/my-sample-repository
